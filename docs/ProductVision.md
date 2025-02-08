@@ -1,4 +1,3 @@
-
 ## Product Vision
 
 ### Vision Statement
@@ -18,15 +17,14 @@ To learn more about how to write a good product vision, please see also:
 * [How to write a vision, by dummies.com](https://www.dummies.com/business/marketing/branding/how-to-write-vision-and-mission-statements-for-your-brand/)
 * [20 Inspiring Vision Statement Examples (2019 Updated), by lifehack.org](https://www.lifehack.org/articles/work/20-sample-vision-statement-for-the-new-startup.html)
 
-
 ### Main Features
-Indicate an  initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users (cf. RUP).
+Indicate an initial/tentative list of high-level features - high-level capabilities or desired services of the system that are necessary to deliver benefits to the users (cf. RUP).
  - Feature 1 - Short description
  - Feature 2 - Short description
 ...
 
 ### Assumptions and dependencies
-Indicate an  initial/tentative list of assumptions and dependencies 
+Indicate an initial/tentative list of assumptions and dependencies 
 
 - Student timetable from UMaia website
-- 
+- ...
