@@ -1,4 +1,3 @@
-
 ## Requirements
 
 In this section, you should describe all kinds of requirements for your module: functional and non-functional requirements.
@@ -27,7 +26,7 @@ Example:
 |||
 | --- | --- |
 | *Name* | Purchase tickets online |
-| *Actor* |  Customer | 
+| *Actor* | Customer | 
 | *Description* | The customer purchases one or more tickets for an event, using an electronic payment method, having the option to choose places. |
 | *Preconditions* | - The customer has electronic payment means. <br> - The event has tickets available on-sale. |
 | *Postconditions* | - The customer gets the electronic tickets with a QR code. <br> - The customer is charged of the tickets’ cost, and the seller credited. <br> - Information of tickets sold & seats available for the event is updated. |
@@ -35,6 +34,7 @@ Example:
 | *Alternative flows and exceptions* | 1. [Payment failure] If, in step 6 of the normal flow the payment fails, the system gives the user the possibility to cancel or retry. |
 
 ### User stories
+
 The user stories should be created as GitHub issues. Therefore, this section will *not* exist in your report, it is here only to explain how you should describe the requirements of the product as **user stories**. 
 
 A user story is a description of desired functionality told from the perspective of the user or customer. A starting template for the description of a user story is 
@@ -57,13 +57,10 @@ For each user story you should write also the acceptance tests (textually in [Gh
 **Value and effort**.
 At the end, it is good to add a rough indication of the value of the user story to the customers (e.g. [MoSCoW](https://en.wikipedia.org/wiki/MoSCoW_method) method) and the team should add an estimation of the effort to implement it, for example, using t-shirt sizes (XS, S, M, L, XL).
 
-
-
 ### Domain model
 
 To better understand the context of the software system, it is very useful to have a simple UML class diagram with all the key concepts (names, attributes) and relationships involved of the problem domain addressed by your module. 
 Also provide a short textual description of each class. 
-
 
 Example:
  <p align="center" justify="center">
