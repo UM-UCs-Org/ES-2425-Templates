@@ -11,6 +11,7 @@ Give each use case a concise, results-oriented name. Use cases should reflect th
 Example:
  <p align="center" justify="center">
   <img src="https://github.com/UMaia-ES-23-24/templates/blob/main/images/UseCaseView2.png?raw=true"/>
+  <img src="https://github.com/UM-UCs-Org/ES-2425-Templates/blob/main/images/UseCaseView2.png?raw=true"/>  
 </p>
 
 Briefly describe each use case mentioning the following:
@@ -41,7 +42,7 @@ A user story is a description of desired functionality told from the perspective
 
 *As a < user role >, I want < goal > so that < reason >.*
 
-User stories should be created and described as [Issues](https://github.com/UMaia-ES-23-24/templates/issues) in GitHub with the label "user story". See how to in the video [Creating a Product Backlog of User Stories for Agile Development using GitHub](https://www.youtube.com/watch?v=m8ZxTHSKSKE).
+User stories should be created and described as [Issues](https://github.com/UM-UCs-Org/ES-2425-Templates/issues) in GitHub with the label "user story". See how to in the video [Creating a Product Backlog of User Stories for Agile Development using GitHub](https://www.youtube.com/watch?v=m8ZxTHSKSKE).
 
 You should name the issue with the text of the user story, and, in the "comments" field, add any relevant notes, the image(s) of the user interface mockup(s) (see below) and the acceptance test scenarios (see below). 
 
@@ -65,4 +66,5 @@ Also provide a short textual description of each class.
 Example:
  <p align="center" justify="center">
   <img src="https://github.com/UMaia-ES-23-24/templates/blob/main/images/DomainModel.png?raw=true"/>
+  <img src="https://github.com/UM-UCs-Org/ES-2425-Templates/blob/main/images/DomainModel.png?raw=true"/>  
 </p>
