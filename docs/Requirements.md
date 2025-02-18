@@ -41,7 +41,7 @@ A user story is a description of desired functionality told from the perspective
 
 *As a < user role >, I want < goal > so that < reason >.*
 
-User stories should be created and described as [Issues](https://github.com/UM-UCs-Org/ES-2425-Templates/issues) in GitHub with the label "user story". See how to in the videos [Creating a Product Backlog of User Stories for Agile Development using GitHub](https://www.youtube.com/watch?v=m8ZxTHSKSKE) and [Sprint Planning and Management using Task Boards in GitHub](https://www.youtube.com/watch?v=-MBEnpAgmug).
+User stories should be created and described as [Issues](https://github.com/UM-UCs-Org/ES-2425-Templates/issues) in GitHub with the label "user story". See how to in the videos [Creating a Product Backlog of User Stories for Agile Development using GitHub](https://www.youtube.com/watch?v=m8ZxTHSKSKE), [Setting up a Sprint Task Board for Agile Development on GitHub](https://www.youtube.com/watch?v=Qasz5fhxIqE) and [Sprint Planning and Management using Task Boards in GitHub](https://www.youtube.com/watch?v=-MBEnpAgmug).
 
 You should name the issue with the text of the user story, and, in the "comments" field, add any relevant notes, the image(s) of the user interface mockup(s) (see below) and the acceptance test scenarios (see below). 
 
