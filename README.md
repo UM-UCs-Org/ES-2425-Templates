@@ -15,11 +15,10 @@ Here, you can find details about the product, from a high-level vision to low-le
 - Project Management.
   
 So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: 
-- requirements,
-- technologies,
-- development,
-- experimentation,
-- testing,
+- Requirements.
+- Technologies.
+- Development.
+- Testing.
 - etc.
 
 Please contact us!
