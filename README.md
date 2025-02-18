@@ -3,12 +3,15 @@
 Welcome to the documentation pages of [your product name]!
 
 Here, you can find details about the product, from a high-level vision to low-level implementation decisions, a kind of Software Development Report, organized by discipline (as of RUP):
-- Business modeling 
-- Product Vision
-- Requirements 
-- Use Case Model 
-- User stories 
-- Domain model Architecture and Design [Logical architecture] [Physical architecture] [Vertical prototype] [Implementation] [Test] [Configuration and change management] 
+- Product Vision.
+- Requirements.
+-- Use Case Model.
+-- User Stories.
+-- Domain Model.
+- Architecture and Design
+-- [Logical architecture]
+-- [Physical architecture]
+-- [Vertical prototype] 
 - Project management 
 
 So far, contributions are exclusively made by the initial team, but we hope to open them to the community, in all areas and topics: 
