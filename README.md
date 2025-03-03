@@ -1,7 +1,5 @@
 # [your product name] Development Report
 
-# Introduction
-
 Welcome to the documentation pages of [your product name]!
 
 Here, you can find details about the product, from a high-level vision to low-level implementation decisions, a kind of Software Development Report:
